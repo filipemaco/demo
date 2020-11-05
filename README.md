@@ -7,5 +7,6 @@ This is a simple readme file
 Just stajs
 
 asdasdas
+New changes
 adsdasdas
 sdadasdsa
